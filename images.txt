@@ -7,4 +7,3 @@ xhofe/alist:latest
 python:alpine3.19
 mysql:5.7
 python:3.10
-kms:latest
