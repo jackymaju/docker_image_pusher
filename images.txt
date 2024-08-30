@@ -12,3 +12,6 @@ python:3.12
 openeuler/openeuler:latest
 #opengauss/openGauss:latest
 enmotech/opengauss:latest
+ubuntu:20.04
+ubuntu:22.04
+ubuntu:26.04
