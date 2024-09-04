@@ -20,4 +20,3 @@ redis:latest
 #下面为kms
 mikolatero/vlmcsd
 debian:latest
-centos:8.3
