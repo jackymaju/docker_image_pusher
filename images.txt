@@ -7,6 +7,7 @@ xhofe/alist:latest
 python:alpine3.19
 mysql:5.7
 mysql:5.5
+mysql:5.6
 python:3.10
 python:3.11
 python:3.12
