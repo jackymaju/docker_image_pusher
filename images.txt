@@ -19,4 +19,4 @@ ubuntu:22.04
 redis:latest
 #下面为kms
 mikolatero/vlmcsd
-debian:12.7
+debian:latest
